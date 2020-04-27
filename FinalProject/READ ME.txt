@@ -1,0 +1,36 @@
+#### Music Path Instructions ####
+Before you run the program, follow these steps to ensure that the music plays.
+
+1. Make sure that you have the FinalProject folder in your downloads.
+
+2. Open the all the java files from the FinalProgect folder in Dr.Java
+
+3. Go to the arcade.java file in Dr.Java
+
+4. Go to the public static void gameSongPlayer method located at the bottom of the 
+arcade.java file
+
+5. You will need to update the file path for each of the 6 music file paths, which are
+all in their own if statement block. Make sure that each file path looks like 
+what is shown below in that order when you are updating them. Note that you only have 
+to update the "name" part to the username that you have on your computer. 
+
+
+
+"/Users/name/Downloads/music/Whitney.wav"
+
+"/Users/name/Downloads/music/Drive.wav"
+
+"/Users/name/Downloads/music/Prince.wav"
+
+"/Users/name/Downloads/music/TaintedLove.wav"
+
+"/Users/name/Downloads/music/UnderPressure.wav"
+
+"/Users/name/Downloads/music/StayOrGo.wav"
+
+#### This is for the YahtzeeSoloGame.java file in the diceNoise method #### 
+"/Users/name/Downloads/drum_roll2.wav"
+
+#### Additional Instructions ####
+ArcadeMk2 is the new version of the Arcade program, so run Aracade Mk2
